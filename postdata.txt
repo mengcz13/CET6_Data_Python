@@ -1,0 +1,33 @@
+POST /find HTTP/1.1
+Host: cet.99sushe.com
+Connection: keep-alive
+Content-Length: 36
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://cet.99sushe.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+DNT: 1
+Referer: http://cet.99sushe.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,en-US;q=0.4
+Cookie: score=; CNZZDATA30023677=cnzz_eid%3D1556530334-1440034985-null%26ntime%3D1440051185; id=110410151204206
+Cookie: score=; CNZZDATA30023677=cnzz_eid%3D1556530334-1440034985-null%26ntime%3D1440051185; id=110410151204205
+
+
+POST /find HTTP/1.1
+Host: cet.99sushe.com
+Connection: keep-alive
+Content-Length: 36
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://cet.99sushe.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+DNT: 1
+Referer: http://cet.99sushe.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6,en-US;q=0.4
+Cookie: score=; CNZZDATA30023677=cnzz_eid%3D1556530334-1440034985-null%26ntime%3D1440051185; id=110410151204205
